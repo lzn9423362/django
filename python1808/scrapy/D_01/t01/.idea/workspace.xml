@@ -11,19 +11,72 @@
       <change afterPath="$PROJECT_DIR$/../../../Django/Day12/APP/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Django/Day12/APP/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Django/Day12/APP/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../flask/Day01/.idea/Day01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../flask/Day01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../flask/Day01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../flask/Day01/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day01/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../flask/Day01/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../flask/Day01/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day01/APP1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day01/APP1/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day01/APP1/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day01/APP1/App/static/css/response.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day01/APP1/App/templates/response.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day01/APP1/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/ModelPro/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/ModelPro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/ModelPro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/ModelPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/ModelPro/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/ModelPro/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/ModelPro/App/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/ModelPro/App/templates/paginator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/ModelPro/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/TemplatePro/app/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/TemplatePro/app/static/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/TemplatePro/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/TemplatePro/app/templates/common.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/TemplatePro/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/TemplatePro/app/templates/index_include.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/TemplatePro/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/cookie/.idea/cookie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/cookie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/cookie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/cookie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/cookie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/cookie/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/cookie/App/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/cookie/App/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/cookie/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day02/cookie/manage.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day02/fisher.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day03/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day03/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day03/config.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day03/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day04/FlaskPro/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day04/FlaskPro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day04/FlaskPro/APP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day04/FlaskPro/APP/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day04/FlaskPro/APP/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day04/FlaskPro/APP/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day04/FlaskPro/APP/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day04/FlaskPro/APP/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day04/FlaskPro/APP/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day04/FlaskPro/manage.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day04mysql/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/.idea/FlaskPro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/.idea/dataSources/8ffbed3c-041c-4a81-9765-065642a87443/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/App/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/App/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day05/FlaskPro/manage.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day05script/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day05script/app/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day05script/app/.idea/misc.xml" afterDir="false" />
@@ -39,6 +92,11 @@
       <change afterPath="$PROJECT_DIR$/../../../flask/Day07search/app/templates/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day07search/app/templates/login.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day07search/app/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day08/.idea/Day08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day08/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day08/lzn/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day08/lzn/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day08/lzn/config.py" afterDir="false" />
@@ -65,11 +123,57 @@
       <change afterPath="$PROJECT_DIR$/../../../flask/Day08/lzn/templates/login.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day08/lzn/templates/question.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flask/Day08/lzn/templates/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/app/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/app/templates/author_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/app/templates/book_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/app/templates/book_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/app/templates/book_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/app/templates/publisher_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Day09/Library/APP/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/TD01/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/.idea/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/static/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/static/js/jquery-1.12.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/static/js/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/static/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/templates/student_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/Test/Lzn/APP/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flask/分页/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/D_01.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/01_try_requests.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/02_try_request_post.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/03_try_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_try_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_try_login2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_try_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renren.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/无序列表找中位数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Day03/Day03Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day03/Day03Django/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Django/Day05/Day05Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day05/Day05Django/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Django/Day07/高级进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day07/高级进阶/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Django/Day08/AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day08/AXF/.idea/workspace.xml" afterDir="false" />
@@ -93,6 +197,7 @@
     <SUITE FILE_PATH="coverage/t01$03_try_test.coverage" NAME="03_try_test Coverage Results" MODIFIED="1538923325581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/t01$01_try_requests.coverage" NAME="01_try_requests Coverage Results" MODIFIED="1538921424078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/t01$02_try_request_post.coverage" NAME="02_try_request_post Coverage Results" MODIFIED="1538923634937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/t01$.coverage" NAME="无序列表找中位数 Coverage Results" MODIFIED="1539134986472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="930364788">
@@ -126,14 +231,45 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1210182274">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="9" />
+          <entry key="py" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="44" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01_try_requests.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -142,7 +278,7 @@
         <entry file="file://$PROJECT_DIR$/02_try_request_post.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-end-line="17" />
+              <caret line="16" selection-start-line="16" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -150,16 +286,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11749">
-              <caret line="828" column="20" selection-start-line="828" selection-start-column="20" selection-end-line="828" selection-end-column="20" />
-              <folding>
-                <element signature="e#251#258#1" expanded="true" />
-                <element signature="e#161963#161969#0" expanded="true" />
-                <element signature="e#161969#161975#0" expanded="true" />
-                <element signature="e#162070#162076#0" expanded="true" />
-                <element signature="e#162076#162082#0" expanded="true" />
-                <element signature="e#162198#162205#1" expanded="true" />
-              </folding>
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -167,8 +295,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03_try_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="345">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -176,11 +304,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="90">
               <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/无序列表找中位数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -204,6 +341,7 @@
         <option value="$PROJECT_DIR$/03_try_test.py" />
         <option value="$PROJECT_DIR$/02_try_request_post.py" />
         <option value="$PROJECT_DIR$/parse.py" />
+        <option value="$PROJECT_DIR$/无序列表找中位数.py" />
       </list>
     </option>
   </component>
@@ -215,8 +353,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="762" />
+    <option name="y" value="27" />
+    <option name="width" value="752" />
     <option name="height" value="721" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -225,6 +363,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,12 +375,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../t01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../flask/Day08/lzn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -257,7 +395,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.02_try_request_post">
+  <component name="RunManager" selected="Python.无序列表找中位数">
+    <configuration name="无序列表找中位数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="t01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/无序列表找中位数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="01_try_requests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="t01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -328,9 +488,11 @@
       <item itemvalue="Python.01_try_requests" />
       <item itemvalue="Python.02_try_request_post" />
       <item itemvalue="Python.03_try_test" />
+      <item itemvalue="Python.无序列表找中位数" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.无序列表找中位数" />
         <item itemvalue="Python.02_try_request_post" />
         <item itemvalue="Python.03_try_test" />
         <item itemvalue="Python.01_try_requests" />
@@ -351,29 +513,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1356" height="786" extended-state="6" />
+    <frame x="67" y="25" width="1849" height="866" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24961948" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1455451" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32829046" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.55975795" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28354082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41297936" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32734805" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32918397" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,6 +543,17 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/无序列表找中位数.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.virtualenvs/scrapy/lib/python3.6/site-packages/requests/models.py">
@@ -400,46 +573,45 @@
     <entry file="file://$PROJECT_DIR$/01_try_requests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11749">
-          <caret line="828" column="20" selection-start-line="828" selection-start-column="20" selection-end-line="828" selection-end-column="20" />
-          <folding>
-            <element signature="e#251#258#1" expanded="true" />
-            <element signature="e#161963#161969#0" expanded="true" />
-            <element signature="e#161969#161975#0" expanded="true" />
-            <element signature="e#162070#162076#0" expanded="true" />
-            <element signature="e#162076#162082#0" expanded="true" />
-            <element signature="e#162198#162205#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_try_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02_try_request_post.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-end-line="17" />
+          <caret line="16" selection-start-line="16" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_try_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="90">
           <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/无序列表找中位数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>

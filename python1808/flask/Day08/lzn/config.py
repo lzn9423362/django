@@ -5,6 +5,7 @@ DEBUG = True
 SECRET_KEY = os.urandom(24)
 
 
+
 DIALECT = 'mysql'
 DRIVER = 'pymysql'
 HOSTNAME = 'localhost'

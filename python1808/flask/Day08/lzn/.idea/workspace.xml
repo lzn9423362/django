@@ -18,6 +18,22 @@
       <change afterPath="$PROJECT_DIR$/../../Day01/APP1/App/static/css/response.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day01/APP1/App/templates/response.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day01/APP1/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/App/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/App/templates/paginator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/static/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/templates/common.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/templates/index_include.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/views.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day02/cookie/.idea/cookie.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day02/cookie/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day02/cookie/.idea/modules.xml" afterDir="false" />
@@ -33,7 +49,34 @@
       <change afterPath="$PROJECT_DIR$/../../Day03/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day03/config.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day03/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/manage.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day04mysql/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/FlaskPro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/dataSources/8ffbed3c-041c-4a81-9765-065642a87443/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/App/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/App/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/manage.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day05script/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day05script/app/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day05script/app/.idea/misc.xml" afterDir="false" />
@@ -80,7 +123,42 @@
       <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/question.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/templates/author_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/templates/book_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/templates/book_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/templates/book_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/templates/publisher_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/views.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TD01/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/.idea/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/static/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/static/js/jquery-1.12.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/static/js/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/static/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/templates/student_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../分页/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/.idea/D_01.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/01_try_requests.py" afterDir="false" />
@@ -92,8 +170,10 @@
       <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/parse.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/renren.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/无序列表找中位数.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../scrapy/untitled/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../scrapy/untitled/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Day03/Day03Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day03/Day03Django/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Django/Day05/Day05Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day05/Day05Django/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Django/Day07/高级进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day07/高级进阶/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Django/Day08/AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day08/AXF/.idea/workspace.xml" afterDir="false" />
@@ -151,38 +231,40 @@
     <session id="-216817220">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="alembic_version" value="1" />
+          <entry key="alembic_version" value="2" />
           <entry key="answer" value="1" />
           <entry key="css" value="10" />
-          <entry key="html" value="11" />
-          <entry key="js" value="4" />
-          <entry key="py" value="21" />
+          <entry key="html" value="17" />
+          <entry key="js" value="5" />
+          <entry key="py" value="27" />
           <entry key="question" value="1" />
           <entry key="sql" value="1" />
-          <entry key="user" value="2" />
+          <entry key="user" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="10" />
-          <entry key="Database Element" value="5" />
-          <entry key="HTML" value="11" />
-          <entry key="JavaScript" value="4" />
-          <entry key="Python" value="21" />
+          <entry key="Database Element" value="7" />
+          <entry key="HTML" value="17" />
+          <entry key="JavaScript" value="5" />
+          <entry key="Python" value="27" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -191,7 +273,7 @@
           <entry key="css" value="243" />
           <entry key="html" value="1529" />
           <entry key="js" value="585" />
-          <entry key="py" value="2725" />
+          <entry key="py" value="2728" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
@@ -201,18 +283,18 @@
           <entry key="HTML" value="1529" />
           <entry key="JavaScript" value="585" />
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="2725" />
+          <entry key="Python" value="2728" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="662">
+              <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
               <folding>
                 <element signature="e#0#86#0" expanded="true" />
               </folding>
@@ -221,37 +303,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exts.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/question.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/md5password.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+            <state relative-caret-position="255">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -259,8 +341,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            <state relative-caret-position="405">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
                 <marker date="1539048323256" expanded="true" signature="59:64" ph="..." />
@@ -272,10 +354,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/base.css">
+        <entry file="file://$PROJECT_DIR$/templates/regist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://1ecaa860-b1fa-4003-a2b0-ea85229c726c/schema/flask_project/table/user">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -283,26 +374,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/regist.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="75">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -327,7 +400,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/exts.py" />
-        <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/static/css/base.css" />
         <option value="$PROJECT_DIR$/static/js/regist.js" />
         <option value="$PROJECT_DIR$/static/js/login.js" />
@@ -343,8 +415,9 @@
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/manage.py" />
         <option value="$PROJECT_DIR$/templates/login.html" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/models.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
   </component>
@@ -374,6 +447,22 @@
             <path>
               <item name="lzn" type="b2602c69:ProjectViewProjectNode" />
               <item name="lzn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lzn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lzn" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lzn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lzn" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lzn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lzn" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -495,10 +584,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1356" height="803" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1849" height="866" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20700152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07969009" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -519,7 +607,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.047945205" />
+      <window_info anchor="right" id="Database" order="4" weight="0.45129377" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,13 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://1ecaa860-b1fa-4003-a2b0-ea85229c726c/schema/flask_project/table/alembic_version">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1ecaa860-b1fa-4003-a2b0-ea85229c726c/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -587,20 +668,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/md5.py" />
     <entry file="file://$PROJECT_DIR$/md5_password.html" />
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/regist.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/question.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -622,31 +689,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://1ecaa860-b1fa-4003-a2b0-ea85229c726c/schema/flask_project/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/envflask/lib/python3.6/functools.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-170">
           <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/envflask/lib/python3.6/site-packages/flask/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/question.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -657,10 +703,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/regist.html">
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="44" selection-end-column="11" />
+        <state relative-caret-position="195">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -678,31 +724,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/static/js/regist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        <state relative-caret-position="840">
+          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -713,10 +738,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="das://1ecaa860-b1fa-4003-a2b0-ea85229c726c/schema/flask_project/table/alembic_version">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/envflask/lib/python3.6/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/question.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state relative-caret-position="405">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
             <marker date="1539048323256" expanded="true" signature="59:64" ph="..." />
@@ -726,20 +810,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
+    <entry file="file://$PROJECT_DIR$/templates/regist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#86#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
+    <entry file="das://1ecaa860-b1fa-4003-a2b0-ea85229c726c/schema/flask_project/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>

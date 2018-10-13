@@ -1,10 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'base.html' %}
 
-</body>
-</html>
+
+
+{% block content %}
+{% include 'index_include.html' %}
+{{ input('username') }}
+
+    {% from 'common.html' import print_name %}
+    {{ print_name('彭性感',22) }}
+
+    {{ 'HELLO WORLD'| title }}
+{% endblock %}

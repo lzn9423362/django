@@ -18,9 +18,19 @@
       <change afterPath="$PROJECT_DIR$/../../Day01/APP1/App/static/css/response.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day01/APP1/App/templates/response.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day01/APP1/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModelPro/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModelPro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModelPro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModelPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModelPro/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModelPro/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModelPro/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplatePro/app/static/css/base.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TemplatePro/app/static/js/base.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TemplatePro/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplatePro/app/templates/common.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TemplatePro/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplatePro/app/templates/index_include.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TemplatePro/app/views.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/cookie.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -85,6 +95,10 @@
       <change afterPath="$PROJECT_DIR$/../../Day08/lzn/templates/question.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Day08/lzn/templates/regist.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TD01/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/Lzn/APP/views.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/.idea/D_01.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/01_try_requests.py" afterDir="false" />
@@ -121,10 +135,11 @@
     <session id="1808947249">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -160,8 +175,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="135">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -172,8 +187,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="240">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
               <folding>
                 <marker date="1539052454696" expanded="true" signature="130:135" ph="..." />
                 <marker date="1539052454696" expanded="true" signature="225:230" ph="..." />
@@ -259,6 +274,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,17 +287,22 @@
               <item name="cookie" type="462c0819:PsiDirectoryNode" />
               <item name="App" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cookie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cookie" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ModelPro" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -333,9 +354,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1356" height="803" extended-state="6" />
+    <frame x="67" y="25" width="1849" height="866" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25342464" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18594356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -349,7 +370,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.359882" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32928476" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -365,6 +386,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -376,16 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -402,8 +423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/App/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="240">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
           <folding>
             <marker date="1539052454696" expanded="true" signature="130:135" ph="..." />
             <marker date="1539052454696" expanded="true" signature="225:230" ph="..." />
